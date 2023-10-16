@@ -1,6 +1,6 @@
 #    USER DEFINED DATA STRUCTURES
 
-#stack - Last-in-First-out (LIFO) principle,elements can be push ,accessed and popped as required ,elements can be accessed only from top postition.
+#stack - Last-in-First-out (LIFO) principle,linear ds, elements can be push ,accessed and popped as required ,elements can be accessed only from top postition.
 
 
 #queue - First-inFirst-out (FIFO) principle, head and tail sections operatoins can be performed from both head and tail push , pop , access.
