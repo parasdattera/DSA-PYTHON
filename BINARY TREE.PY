@@ -42,9 +42,9 @@ class Node:
     def TraversalPostorder(self):
         if self.left:
             self.left.TraversalPostorder()
-        print(self.data,end=" ")
         if self.right:
             self.right.TraversalPostorder()
+        print(self.data,end=" ")
     
     def TraversalInorder(self):
         if self.left:
